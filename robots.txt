@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kazim-davidov.pages.dev/sitemap.xml
