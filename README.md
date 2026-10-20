@@ -23,9 +23,7 @@ site/
 ├─ sitemap.xml                 Карта сайта
 ├─ .nojekyll                   Отключает обработку Jekyll на GitHub Pages
 ├─ articles/
-│   ├─ pmo-failures.html
-│   ├─ audit-2-weeks.html
-│   └─ pmo-vs-project-office.html
+│   └─ billions-project-not-working.html
 └─ assets/
     ├─ css/style.css
     ├─ js/main.js
@@ -86,7 +84,7 @@ git push origin main
 
 ## Что обязательно заменить перед публикацией
 
-- [ ] **Telegram.** В файлах уже указан `https://t.me/kazim40000` и `@kazim40000` —
+- [ ] **Telegram.** В файлах уже указан `https://t.me/KazimPMO` и `@KazimPMO` —
       проверьте, что ник актуален и открыт для сообщений.
 - [x] **Адрес в SEO‑файлах.** В `robots.txt` и `sitemap.xml` указан текущий адрес
       `https://davkazimpmo.github.io/kazim-davidov`. При переезде на свой домен
